@@ -1,0 +1,3 @@
+/home/krystian/CLionProjects/Car/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/krystian/CLionProjects/Car/cmake-build-debug/CMakeFiles/carlier.dir
+/home/krystian/CLionProjects/Car/cmake-build-debug/CMakeFiles/edit_cache.dir
